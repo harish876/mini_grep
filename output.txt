@@ -1,0 +1,5 @@
+Case Insensitive: false
+Line I'm nobody! Who are you?
+Line Are you nobody, too?
+Line They'd banish us, you know.
+Line To tell your name the livelong day
